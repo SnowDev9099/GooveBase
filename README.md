@@ -1,5 +1,5 @@
-### GooveBase
-# Welcome to GooveBase, an open-source music player application designed to provide a sleek and modern interface for playing your favorite songs. Inspired by platforms like Spotify, GooveBase allows you to manage # and play songs with ease.
+# GooveBase
+### Welcome to GooveBase, an open-source music player application designed to provide a sleek and modern interface for playing your favorite songs. Inspired by platforms like Spotify, GooveBase allows you to manage and play songs with ease.
 
 ## Features:
 Play, Pause, and Stop: Control playback with intuitive circular buttons.
