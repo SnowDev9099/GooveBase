@@ -1,11 +1,16 @@
 # GooveBase
 ### Welcome to GooveBase, an open-source music player application designed to provide a sleek and modern interface for playing your favorite songs. Inspired by platforms like Spotify, GooveBase allows you to manage and play songs with ease.
 
+
+# how to use,
+### First download the latest zip from the releases page, currently, the up-to-date version is V1.1, once downloaded unzip and press Windows + R, and then go into the unzipped folder and put the folder that says GooveBaseData and put that folder into the Roaming folder that you are in. once done simply navigate inside that folder and drag the shortcut where ever you want. should you want to import videos and songs go to the songs folder nad put them there.
+
+
 ## Features:
-Play, Pause, and Stop: Control playback with intuitive circular buttons.
+Play, Pause, and Stop Control playback with intuitive circular buttons.
 Volume Control: Adjust volume using a responsive trackbar and a text box.
-Song Navigation: Seek specific parts of a song using a new trackbar.
-Settings Management: Customize fullscreen/windowed mode, apply and revert settings seamlessly.
+Song Navigation: Seek specific parts of a song using a new track bar.
+Settings Management: Customize fullscreen/windowed mode, and apply and revert settings seamlessly.
 Dynamic Icon: Set a custom icon for your application dynamically from the AppData directory.
 Responsive UI: A modern design with improved responsiveness for a better user experience.
 Format Support: Play songs in any format supported by NAudio (e.g., .wav, .mp3).
